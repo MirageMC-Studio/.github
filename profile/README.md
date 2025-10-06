@@ -1,3 +1,3 @@
-## MirageMC-Studio
+# MirageMC-Studio
 
 ## 咕咕嘎嘎
